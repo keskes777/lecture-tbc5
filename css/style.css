@@ -1,0 +1,30 @@
+.logo1{
+	margin-right: 60px;
+	vertical-align: middle;
+	padding-top: 54px;
+	padding-left: 52px;
+}
+
+nav {
+	border: 2px ;
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 54px;
+}
+
+li{
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a{
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.active{
+	color: #4E6FAE;
+}
