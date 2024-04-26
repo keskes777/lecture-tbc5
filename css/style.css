@@ -1,12 +1,15 @@
-.logo1{
+.html{
 	margin-right: 60px;
 	vertical-align: middle;
 	padding-top: 54px;
 	padding-left: 52px;
 }
 
-nav {
-	border: 2px ;
+.websiteHeader{
+	margin-bottom: 112px;
+}
+nav{
+	border: 2px;
 	display: inline-block;
 	vertical-align: middle;
 	padding-top: 54px;
@@ -25,6 +28,337 @@ a{
 	font-weight: 700;
 	line-height: normal;
 }
+
 .active{
 	color: #4E6FAE;
+}
+
+.container{
+    width: 1291;
+    margin: 52px;
+}
+
+
+
+.a1{
+	width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 26px;
+	margin-top: 44px;
+}
+
+
+.a2{
+	color: #8D81FF;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 10px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+
+.a3{
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 15px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.a4{
+	margin-right: 66px;
+}
+
+.pdiv{
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+p{
+	margin-bottom: 15px;
+	color: #4E6FAE;
+	font-family:;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.pdiv1{
+	margin-top: 32px;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+.n3{
+	margin-top: 145px;
+	padding: 52px;
+}
+
+.t2{
+    padding-left: 0 52px;
+}
+
+.p1{
+	margin-right: 41px;
+	margin-left: 41px;
+}
+
+.container1{
+	width: 1052px;
+	margin: 131px auto;
+}
+.lin1{
+	display: inline-block;
+}
+.siaxl{
+	width: 150px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-top: 120px;
+
+}
+.w2{
+	width: 2px;
+	height: 24px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin-right: 15px;
+	margin-top: 26px;
+}
+.k4{
+	width: 484px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	padding-left: 15px;
+	display: inline-block;
+	margin-top: 26px;
+}
+.grey1{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-top: 26px;
+	padding: 20px;
+	margin-right: 20px;
+	display: inline-block;
+}
+.grey1 img {
+	display: inline-block;
+}
+.grey1 p {
+	margin-left: 37px;
+	width: 335px;
+	height: 95px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.flex1{
+	display: flex;
+}
+.o2{ 
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+.websiteHeader{
+	margin-bottom: 112px;
+}
+.grey2{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-top: 26px;
+	padding: 20px;
+	display: inline-block;
+	margin-right: 194px;
+	margin-left: 52px;
+	vertical-align: top;
+}
+.grey2 img{
+	display: inline-block;
+}
+.grey2 p{
+	display: inline-block;
+	margin-left: 37px;
+	width: 335px;
+	height: 95px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.flex2{
+	display: flex;
+}
+.o3{
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+.foot1{
+	margin-top: 91px;
+
+}
+.lp{
+	padding-left: 98px;
+}
+.foo{
+	margin-left: 41px;
+	margin-right: 41px;
+}
+.d0{
+	width: 1660px;
+	height: 735px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+}
+.lotdiv{
+	margin-left: 230px;
+}
+.o3{
+    .roboto-regular {
+    font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.j7{
+	.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    vertical-align: middle;
+    padding-top: 65px;
+}
+.j8{
+	.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.foot1{
+	padding-right: 0 194px;
+}
+
+.d0{
+	width: 1660px;
+	height: 735px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+}
+.d1{
+	color: #4E6FAE;
+	font-family: "Helvetica Neue";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.d2{
+	width: 307px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 26px;
+	margin-left: 162px;
+}
+.d3{
+	width: 217px;
+	height: 34px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 162px;
+}
+.d4{
+	width: 434px;
+	height: 34px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 162px;
+}
+.kes8{
+	display: inline-block;
+	margin-left: 673px;
+	margin-bottom: 223px;
+	vertical-align: text-top;
+	
+}
+.lp{
+	margin-right: 43px;
+	display: inline-block;
+	vertical-align: top;
+	padding-bottom: 100px;
 }
